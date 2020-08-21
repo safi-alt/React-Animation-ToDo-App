@@ -46,6 +46,6 @@
   }
   100% {
     opacity: 0;
-    transform: translateY(-250px);
+    transform: translateY(-100%);
   }
 }
